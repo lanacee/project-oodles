@@ -67,3 +67,7 @@ Group 3 - 'poo':
 ## Ideas for future features
 
 If the app generates name suggestions, the app will ask users to click on the best option. This decision could be stored in database, to inform future results.
+
+## Ideas for future features
+
+If the app generates name suggestions, the app will ask users to click on the best option. This decision could be stored in database, to inform future results.

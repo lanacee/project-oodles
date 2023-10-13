@@ -18,7 +18,7 @@ I wanted to create an app that could return/generate oodle breed names for any p
 
 ## How the app works
 
-The app consumes the [TheDogApi](https://docs.thedogapi.com/) for the list of dog breeds dog breed information and photos.
+The app consumes the [TheDogApi](https://docs.thedogapi.com/) for the list of dog breeds, breed information and photos.
 
 The Oodles of Oodles app first checks against a list of known poodle breed mix names  and if it finds a match it will use this result.
 

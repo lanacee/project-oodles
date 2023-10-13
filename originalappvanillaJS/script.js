@@ -1,7 +1,7 @@
 
 // Retrieves list of dogs from API and displays to user in a dropdown list
 
-const breedListUrl = https://api.thedogapi.com/v1/breeds,
+//const breedListUrl = https://api.thedogapi.com/v1/breeds,
 const breedList = document.getElementById("breed-list")
 
 
